@@ -13,7 +13,7 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Black Friday Sales Prediction](https://github.com/AdarshV08/Black-Friday-Sales-Prediction)** | Predicts customer purchase amounts based on demographics. Chosen **Linear Regression** over complex models to maintain interpretability for business stakeholders. | 🐍 Python, Scikit-Learn, Pandas |
+| **[Black Friday Sales Prediction](https://github.com/AdarshV08/Black-Friday-Sales-Prediction)** | Predicts customer purchase amounts based on demographics. Chosen **Linear Regression** over complex models to maintain interpretability for business stakeholders. |Python, Scikit-Learn, Pandas |
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
