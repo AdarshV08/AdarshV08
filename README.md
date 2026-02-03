@@ -13,7 +13,7 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Superstore Sales Performance Dashboard](https://github.com/AdarshV08/Tableau-Superstore-Dashboard)** | Interactive Tableau dashboard analyzing 9,994 retail transactions across 2015-2018. Features time-series analysis, geographic mapping, and product performance tracking with actionable business insights. | Tableau Desktop, Data Visualization |
+| **[Superstore Sales Performance Dashboard](https://github.com/AdarshV08/Superstore-Sales)** | Interactive Tableau dashboard analyzing 9,994 retail transactions across 2015-2018. Features time-series analysis, geographic mapping, and product performance tracking with actionable business insights. | Tableau Desktop, Data Visualization |
 | **[Black Friday Sales Prediction](https://github.com/AdarshV08/Black-Friday-Sales-Prediction)** | Predicts customer purchase amounts based on demographics using machine learning. Chosen **Linear Regression** over complex models to maintain interpretability for business stakeholders. | Python, Scikit-Learn, Pandas |
 
 ### ✍️ Random Dev Quote
