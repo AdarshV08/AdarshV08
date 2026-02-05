@@ -13,8 +13,12 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| **[Service Spot - Call Center Performance](https://github.com/AdarshV08/Service-spot-dashboard)** | Comprehensive Power BI dashboard analyzing 4.56M calls across multiple departments. Features KPI tracking, revenue intelligence, employee performance metrics, and operational efficiency insights with $48.95M total revenue. | Power BI, DAX, Data Visualization, Business Intelligence |
 | **[Superstore Sales Performance Dashboard](https://github.com/AdarshV08/Superstore-Sales)** | Interactive Tableau dashboard analyzing 9,994 retail transactions across 2015-2018. Features time-series analysis, geographic mapping, and product performance tracking with actionable business insights. | Tableau Desktop, Data Visualization |
 | **[Black Friday Sales Prediction](https://github.com/AdarshV08/Black-Friday-Sales-Prediction)** | Predicts customer purchase amounts based on demographics using machine learning. Chosen **Linear Regression** over complex models to maintain interpretability for business stakeholders. | Python, Scikit-Learn, Pandas |
+
+---
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
